@@ -17,6 +17,7 @@
     "analyze": "size-limit --why",
     "build": "dts build",
     "build-storybook": "build-storybook",
+    "commit": "cz",
     "lint": "dts lint",
     "prepare": "is-ci || husky install && dts build",
     "size": "size-limit",
