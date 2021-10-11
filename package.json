@@ -4,7 +4,7 @@
   "author": "Richard Harrah",
   "license": "MIT",
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "main": "dist/index.js",
   "module": "dist/react-app-devtools.esm.js",

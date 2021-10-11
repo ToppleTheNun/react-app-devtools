@@ -18,6 +18,11 @@ WIP
 
 ## Development Guide
 
+### Prerequisites
+
+- NodeJS >= 12
+- [Yarn](https://yarnpkg.com/)
+
 ### Linting
 
 The library is checked using ESLint, following the rules created for create-react-app by Facebook.
